@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Palify**
 
-- 🌱 I’m currently learning **Vanila javascript,php**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Frontend Project**
 
 - 🤝 I’m looking for help with **Java BootCamp**
 
-- 💬 Ask me about **java,c,css,html**
+- 💬 Ask me about **java,c,css,html,Javascript,php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
